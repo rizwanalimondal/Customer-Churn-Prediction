@@ -7,7 +7,7 @@ The dataset contains information about customer demographics, account details, c
 ---
 
 ## Project Structure
-
+````
 Customer-Churn-Prediction/
 │
 ├── data/
@@ -20,7 +20,7 @@ Customer-Churn-Prediction/
 │      model.py  
 │
 └── README.md
-
+````
 ---
 
 ## Data Description (Key Columns)
